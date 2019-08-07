@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565135677 source:e:\user\destkop\chantagem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<ctype.h>
+	<conio.h>
+
